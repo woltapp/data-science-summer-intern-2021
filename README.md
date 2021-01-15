@@ -45,8 +45,8 @@ Based on the approach you choose, produce a model suitable for the task. You sho
 
 ### Evaluation
 Are you happy with the results? What kind of results would you expect to see, if this was deployed to production?
-Further development
 
+### Further development
 Make slight modifications to the model or take a completely different method to solve it. Compare your two solutions. Strengths, weaknesses? What should you consider when you compare different models? If you had more time and resources, what kind of development could be done to make the solution better?
 
 ## Your background and Wolt
