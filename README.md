@@ -1,4 +1,4 @@
-# Data Science Summer Intern assigment 2021
+# Data Science Summer Intern assignment 2021
 
 **Assignment for candidates**
 
